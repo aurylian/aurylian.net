@@ -1,15 +1,32 @@
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+# Setup
+title: Test
+tagline: test
+url: https://getpoole.com
+# paginate: 1
+baseurl: ""
+permalink: pretty
 
-# SEO Stuff
-author: 
-summary: 
-lang: en
-locale: en_US
-url:    "https://aurylian.net"
-baseurl: "https://aurylian.net"
+# Gems
+# plugins:
+#   - jekyll-gist
+#   - jekyll-paginate
+#   - jekyll-seo-tag
 
-# RSS feeds
-feed:
-  posts_limit: 20
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+# ga_analytics: UA-000000-0
+
+# Specify the author for blog posts
+author:
+  name: Aurylian
+  url: https://twitter.com/aurylian
+  # email: 
+
+# Custom vars
+version: Alpha
