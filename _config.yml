@@ -1,17 +1,10 @@
 # Setup
 title: Aurylian
-tagline: Gaming Narratives and Narrating Games for 2 x 10**-2 Centuries
+tagline: Being the Future for the Past Decade
 url: "https://aurylian.net"
 baseurl: ""
 permalink: pretty
 # paginate: 1
-
-# Gems
-# plugins:
-#   - jekyll-gist
-#   - jekyll-paginate
-#   - jekyll-seo-tag
-
 
 sass:
   sass_dir: _sass
@@ -30,3 +23,11 @@ author:
 
 # Custom vars
 version: Alpha
+
+# Gems
+# plugins:
+#   - jekyll-gist
+#   - jekyll-paginate
+#   - jekyll-seo-tag
+
+
