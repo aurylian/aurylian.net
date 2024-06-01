@@ -1,5 +1,4 @@
 ---
-link: /
 layout: page
 ---
 
